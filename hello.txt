@@ -2,3 +2,4 @@ this is the first commit to master
 this is a modification from branch1
 this is another modification from branch without doing anything except trying to push again.
 no pulls were done. 
+this is a modification after a commit was made directly to main
