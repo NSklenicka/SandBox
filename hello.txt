@@ -3,3 +3,4 @@ this is a modification from branch1
 this is a direct edit in main on an existing line - this is another modification from branch without doing anything except trying to push again.
 no pulls were done. 
 modification from branch2.
+this is a commit directly to master.
